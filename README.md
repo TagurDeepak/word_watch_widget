@@ -17,6 +17,19 @@ The easiest way to get the widget on your phone is to just download the pre-buil
 2. Tap the file to install it. *(You may need to allow "Install from unknown sources" in your settings).*
 3. Go to your home screen, long-press on an empty space, tap **Widgets**, and drag the **Word Clock** widget onto your screen!
 
+## How to Read the Time
+
+The clock tells time in five-minute intervals using the illuminated words on the grid (e.g., "IT IS TEN PAST TWELVE"). 
+
+To know the exact minute, look at the **four small dots** at the bottom of the widget:
+- **0 dots lit:** Exactly the time written (e.g., 12:10).
+- **1 dot lit:** Add one minute (12:11).
+- **2 dots lit:** Add two minutes (12:12).
+- **3 dots lit:** Add three minutes (12:13).
+- **4 dots lit:** Add four minutes (12:14).
+
+Once the 5th minute passes, the words will update to the next interval (e.g., "IT IS A QUARTER PAST TWELVE") and the dots will reset to zero.
+
 ## For Developers
 
 If you want to edit the code or build it yourself:
