@@ -36,3 +36,4 @@ If you want to edit the code or build it yourself:
 1. Open the `word-clock` folder in Android Studio.
 2. Connect your Android device or start an emulator.
 3. Click "Run" to install the app.
+<img width="720" height="1600" alt="IMG-20261002-WA0014" src="https://github.com/user-attachments/assets/5a829a0d-1079-4a26-948a-2f235e9c6d4b" />
